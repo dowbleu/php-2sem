@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Аргунов Денис Сергеевич 241-321 Лабораторная №1</title>
+    <title>Аргунов Денис Сергеевич 241-321 Домашняя работа №1</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
         <img src="./Logo_Polytech_rus_main.jpg" alt="Картинка">
-        <h1 class="heading">2.1. Домашняя работа: Hello, World! Время выполнения - 3 часа</h1>
+        <h1 class="heading">2.1. Домашняя работа: Hello, World!</h1>
     </header>
 
     <main>
