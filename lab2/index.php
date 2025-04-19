@@ -61,7 +61,6 @@
             $second_array_task4 = array(1, 2, 3);
             echo "Дано: Второй массив [" . implode(', ', $second_array_task4) . "]<br><br>";
 
-            // Создаём ассоциативный массив с помощью array_combine
             $array_combined_task4 = array_combine($first_array_task4, $second_array_task4);
             echo "Результат после array_combine: ";
             print_r($array_combined_task4);
