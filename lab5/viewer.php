@@ -34,7 +34,7 @@ function getFriendsList(mysqli $mysqli, string $type, int $page): string
     $html .= '<table border="1" cellpadding="5" cellspacing="0">';
     $html .= '<tr>
                 <th>Фамилия</th>
-                <t</h>Имяth>
+                <th>Имя</th>
                 <th>Отчество</th>
                 <th>Дата рождения</th>
                 <th>Телефон</th>
